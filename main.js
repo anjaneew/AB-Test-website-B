@@ -48,51 +48,7 @@ let quizData = [
         correct: "Because the monkey died"
     }
     ];
-    /*{
-        question: "What is the capital of Japan?",
-        options: ["Tokyo", "Beijing", "Seoul", "Bangkok"],
-        correct: "Tokyo",
-    },
-
-    {
-        question: "Which planet is known as the 'Red Planet'?",
-        options: ["Mars", "Venus", "Jupiter", "Mercury"],
-        correct: "Mars",
-    },
-    {
-        question:
-          "Which famous scientist developed the theory of general relativity?",
-        options: ["Isaac Newton","Albert Einstein","Stephen Hawking","Galileo Galilei",],
-        correct: "Albert Einstein",
-    },
-    {
-        question: "What is the largest mammal on Earth?",
-        options: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-        correct: "Blue Whale",
-    },
-    {
-        question: "Which famous artist painted the Mona Lisa?",
-        options: ["Vincent van Gogh","Pablo Picasso","Leonardo da Vinci","Michelangelo",],
-        correct: "Leonardo da Vinci",
-    },
-    {
-        question: "Which playwright wrote the tragedy 'Romeo and Juliet'?",
-        options: ["William Shakespeare","George Bernard Shaw","Oscar Wilde","Charles Dickens",],
-        correct: "William Shakespeare",
-    },
-    {
-        question: "Who is known as the father of modern physics?",
-        options: ["Isaac Newton","Albert Einstein","Galileo Galilei","Niels Bohr",],
-        correct: "Albert Einstein",
-    },
-    {
-        question:
-          "Which ancient wonder of the world was a massive statue of the Greek god Zeus?",
-        options: ["Great Pyramid of Giza","Hanging Gardens of Babylon","Statue of Zeus at Olympia","Colossus of Rhodes",],
-        correct: "Statue of Zeus at Olympia",
-    },*/
-
-
+    
 //  Adding functions with js
 
 // HTML to JS element retrieval 
